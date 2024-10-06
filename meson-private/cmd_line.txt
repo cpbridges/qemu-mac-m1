@@ -1,0 +1,8 @@
+[options]
+b_pie = false
+docs = disabled
+plugins = true
+
+[properties]
+native_file = ['/Users/chrisbridges/Work/RTS_Demo/qemu/build/config-meson.cross']
+
